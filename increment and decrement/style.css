@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#container{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box{
+    display: grid;
+    height: 25%;
+    width: 25%;
+}
+.opr{
+    display: flex;
+    position: relative;
+    gap:20px;
+}
+button{
+    width: 30%;
+    position: absolute;
+}

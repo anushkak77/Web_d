@@ -1,0 +1,12 @@
+.box{
+    width:100px;
+    height:100px;
+    overflow: hidden;
+    overflow: scroll;
+    overflow: auto;
+}
+.positioned-text{
+    position:fixed;
+    height:200px;
+    width:400px;
+}
